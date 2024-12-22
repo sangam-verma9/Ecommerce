@@ -18,6 +18,8 @@ cd Ecommerce
 ```
 npm install
 ```
+### ADD ENVIRONMENT VARIABLES
+Create a file ``config.env`` under config folder and add copy varibales from ``config_variable`` file which is listed under config folder. Now you can change varibales from your environment variables
 ### RUN PROJECT
 ```
 npm run dev
